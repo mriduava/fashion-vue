@@ -1,4 +1,4 @@
-# mridustore
+# FASHION-VUE
 
 ## Project setup
 ```
